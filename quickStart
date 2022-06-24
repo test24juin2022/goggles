@@ -3,5 +3,6 @@ See https://github.com/brave/goggles-quickstart/blob/main/goggles/quickstart.gog
 
 $discard,site=akamaiedge.net
 
-$boost=4,site=blog.samaltman.com
+$boost=4,site=01net.com
 
+*notwanted*$downrank
