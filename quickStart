@@ -1,0 +1,7 @@
+See https://github.com/brave/goggles-quickstart/blob/main/goggles/quickstart.goggle
+
+
+$discard,site=akamaiedge.net
+
+$boost=4,site=blog.samaltman.com
+
