@@ -1,2 +1,8 @@
+
+! name: 01net
+! description: just 01net
+! public: true
+! author: test24juin2022
+
 $discard
 $boost=4,site=01net.com
